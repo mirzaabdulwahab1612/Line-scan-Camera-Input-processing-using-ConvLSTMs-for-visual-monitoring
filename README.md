@@ -1,4 +1,4 @@
-This repository contains a demo code for road crack monitoring using line-scan camera-input processing methodology
+This repository contains a demo code for road crack monitoring using line-scan camera-input processing methodology.
 
 # Line-scan camera input processing with ConvLSTMs for Road Condition Monitoring
 
