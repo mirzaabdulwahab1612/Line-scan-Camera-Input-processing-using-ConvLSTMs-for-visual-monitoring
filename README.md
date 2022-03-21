@@ -10,5 +10,4 @@ This repository contains a demo code for road crack monitoring using line-scan c
 
 #### Some results from our proposed methodolgy: 
 
-\
 <img src="https://github.com/mirzaabdulwahab1612/Line-scan-Camera-Input-processing-using-ConvLSTMs-for-visual-monitoring/blob/main/linescanresults.png" width="50%" height="50%">
